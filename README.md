@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# Sweet Like Cinema
+A quick and well-designed movie website that is connected to the TMDB API.  This project consists of React, TypeScript, and, possibly in the future, the .NET framework.
+>>>>>>> 58a30e8ad95f467b2743dc985486013ea776dc15
